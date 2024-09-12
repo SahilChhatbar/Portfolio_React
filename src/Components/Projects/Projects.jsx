@@ -10,7 +10,7 @@ const Projects = () => {
         title="CineScope" 
         main="A movie information website that contains movie lists, such as popular, upcoming, and top rated. It utilized real-time data using API calls. Also contains movie details page complete with a unique chatbot." 
         image="https://i.postimg.cc/pddC03cs/cine-min.png" 
-        demoLink="https://imgur.com/a/cinescope-demo-QXTaX8T"
+        demoLink="https://i.postimg.cc/pddC03cs/cine-min.png"
         githubLink="https://github.com/SahilChhatbar/CineScope-ReactJs"
       />
       <ProjectCard 

@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 /* Smooth scrolling */
 * {
   scroll-behavior: smooth;
@@ -20,6 +22,7 @@
   transition: background-color 0.3s, color 0.3s, background-image 0.3s;
 }
 /* Light theme elements */
+
 
 .light h1,
 .light ul,
