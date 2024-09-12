@@ -7,8 +7,6 @@ import Projects from "./Components/Projects/Projects";
 import Footer from "./Components/Footer/Footer";
 import ThemeToggle from "./Components/ThemeToggle";
 
-
-
 function App() {
   return (
     <div className="h-auto w-full overflow-hidden">
