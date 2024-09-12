@@ -14,22 +14,22 @@ const Footer = () => {
         <p className="text-xl md:text-3xl text-center">Socials</p>
         <ul className="text-xs md:text-xl flex flex-row gap-2 items-center">
           <li>
-            <a href="mailto:sahilchhabar7@gmail.com">
-              <MdEmail className="text-base sm:text-lg md:text-2xl" />
+            <a href="mailto:sahilchhabar7@gmail.com" target='_blank'>
+              <MdEmail className="text-base sm:text-lg md:text-2xl"  />
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/">
+            <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/" target='_blank'>
               <CiLinkedin className="text-base sm:text-lg md:text-3xl" />
             </a>
           </li>
           <li>
-            <a href='https://github.com/SahilChhatbar'>
+            <a href='https://github.com/SahilChhatbar' target='_blank'>
               <FaGithub className="text-base sm:text-lg md:text-2xl" />
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/_sahil0703?igsh=OXQ4eHBxd3F1MGRx">
+            <a href="https://www.instagram.com/_sahil0703?igsh=OXQ4eHBxd3F1MGRx" target='_blank'>
               <FaInstagram className="text-base sm:text-lg md:text-2xl" />
             </a>
           </li>
