@@ -72,7 +72,7 @@ const About = () => {
         <li className="flex gap-3 items-start">
           <div className="flex-grow">
            <p className="text-sm md:text-lg leading-tight hyphens-auto font-semibold">
-            I regularly share valuable insights and content related to Web Development on <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/"><u>LinkedIn</u></a> to contribute to the developer community.</p>
+            I regularly share valuable insights and content related to Web Development on <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/" target="_blank"><u>LinkedIn</u></a> to contribute to the developer community.</p>
           </div>
         </li>
         <li className="flex gap-3 items-start ">
