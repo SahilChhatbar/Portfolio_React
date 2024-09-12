@@ -40,10 +40,10 @@ const Experience = () => {
     <h2 className="font-bold">Projects I worked on:</h2>
     <ul className="list-none ml-1">
       <li className="flex items-center">
-        <span className="mr-2">→</span> <a href='https://bigsocialmedia.in/'><u>bigsocialmedia.in</u></a>
+        <span className="mr-2">→</span> <a href='https://bigsocialmedia.in/' target='_blank'><u>bigsocialmedia.in</u></a>
       </li>
       <li className="flex items-center">
-        <span className="mr-2">→</span> <a href='https://selfpublishingindia.co.in/'><u>selfpublishingindia.in</u></a>
+        <span className="mr-2">→</span> <a href='https://selfpublishingindia.co.in/' target='_blank'><u>selfpublishingindia.in</u></a>
       </li>
     </ul>
   </div>
