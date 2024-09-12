@@ -1,5 +1,5 @@
 import React from 'react';
-import bannerImg from "../../assets/111.png";
+
 
 const ProjectCard = ({ title, main, image, demoLink, githubLink }) => {
   return (

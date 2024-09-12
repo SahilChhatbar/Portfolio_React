@@ -1,5 +1,4 @@
 import React from "react";
-import AboutImg from "../../assets/111.png";
 import { FaCss3, FaFigma, FaHtml5, FaJs, FaReact } from 'react-icons/fa'
 import {SiWordpress} from "react-icons/si"
 import { SiMongodb } from 'react-icons/si'
