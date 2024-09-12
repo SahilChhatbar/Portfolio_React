@@ -3,7 +3,7 @@ import bannerImg from "../../assets/111.png";
 
 const ProjectCard = ({ title, main, image, demoLink, githubLink }) => {
   return (
-    <div className="p-3 md:p-6 flex flex-col w-full md:w-11/12 h-auto bg-black bg-opacity-30 shadow-lg shadow-slate-900 rounded-2xl">
+    <div className="p-3 md:p-6 flex flex-col w-full md:w-11/12 h-auto bg-black bg-opacity-30 shadow-lg shadow-slate-900 rounded-2xl glow-effect">
       <img className="w-full h-auto object-cover rounded-t-lg" src={image} alt={title} />
       <div className="flex flex-col w-full p-4">
         <h3 className="text-xl md:text-2xl font-bold leading-normal hyphens-auto">
