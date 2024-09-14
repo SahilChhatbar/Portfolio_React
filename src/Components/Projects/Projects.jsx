@@ -9,14 +9,14 @@ const Projects = () => {
       <ProjectCard 
         title="CineScope" 
         main="A movie information website that contains movie lists, such as popular, upcoming, and top rated. It utilized real-time data using API calls. Also contains movie details page complete with a unique chatbot." 
-        image="https://i.postimg.cc/pddC03cs/cine-min.png" 
-        demoLink="https://i.postimg.cc/pddC03cs/cine-min.png"
+        image="https://i.postimg.cc/jSYyYNHn/cine.jpg" 
+        demoLink="https://imgur.com/a/cinescope-demo-QXTaX8T"
         githubLink="https://github.com/SahilChhatbar/CineScope-ReactJs"
       />
       <ProjectCard 
         title="NearBees" 
         main="A Flower recognition system made using CNN model, YOLO and Flask. Other technologies include React Js and Bootstrap." 
-        image="https://i.postimg.cc/L6YqBmG8/near.png" 
+        image="https://i.postimg.cc/XNTsXrK4/near.jpg" 
         demoLink="https://imgur.com/a/KQZGUDr"
         githubLink="https://github.com/SahilChhatbar/NearBees--Flower-Recognition-System-"
       />
