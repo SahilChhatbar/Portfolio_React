@@ -35,7 +35,7 @@ const Experience = () => {
         </div>
       </div>
       <div className="hidden md:flex flex-wrap md:w-2/5 w-full gap-4 p-6 text-white items-center justify-center bg-black shadow-lg shadow-slate-900 bg-opacity-20 rounded-2xl md:mt-0 hyphens-auto font-semibold">
-    <p>During my internship at <b>Big Social Media Pvt. Ltd.</b>, I developed skills in professional communication, teamwork, time management, problem-solving, adaptability, networking, attention to detail, and conflict resolution. For more details, see my <u>certificate</u> and <u className="hyphens-auto">letter of recommendation</u>.</p>
+    <p>During my internship at <b>Big Social Media Pvt. Ltd.</b>, I developed skills in professional communication, teamwork, time management, problem-solving, adaptability, networking, attention to detail, and conflict resolution. For more details, see my <u><a href='https://drive.google.com/file/d/1WerwTylARhCtG5FP6plnniBLaA7PpiNA/view?usp=sharing' target='_blank'>certificate</a></u> and <u className="hyphens-auto"><a href='https://drive.google.com/file/d/1VAqmT_Ak8RvZyAz00PuvjRX5HRPulSlU/view?usp=sharing' target='_blank'>letter of recommendation</a></u>.</p>
     <div className="text-md hyphens-auto w-full hyphens-auto">
     <h2 className="font-bold">Projects I worked on:</h2>
     <ul className="list-none ml-1">
