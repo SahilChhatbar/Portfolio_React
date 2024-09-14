@@ -8,7 +8,7 @@ const Experience = () => {
     <div className="flex flex-wrap items-start justify-between gap-0 md:gap-0 p-10 md:p-24 w-fill"> 
       <div className="flex flex-col w-full md:w-3/6 gap-4 bg-slate-950 bg-opacity-20 rounded-xl p-4 items-center shadow-lg shadow-slate-900 md:mt-14">
         <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-4 w-full">
-          <img className="w-14 md:w-20" src={m1} alt="Profile" />
+          <img className="w-16 md:w-20" src={m1} alt="Profile" />
           <div className="text-white w-full text-leftr md:text-left ">
             <h2 className="leading-tight font-bold hyphens-auto">BSM Pvt. Ltd., WordPress Developer Intern</h2>
             <p className="text-lg leading-tight font-thin">Jun 2024 - Aug 2024</p>
