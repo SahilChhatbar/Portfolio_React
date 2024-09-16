@@ -49,7 +49,7 @@ function App() {
         <div id="landscape-warning" className="fixed inset-0 bg-slate-600 bg-opacity-95 flex items-center justify-center z-50">
           <div className="text-center text-white flex flex-col items-center">
             <img 
-              src="https://media3.giphy.com/media/NU0xjazlhpBd0DeuNK/giphy.gif?cid=6c09b9522zx4zbmrl86gg0yd9ncqq002kntemy1gu32k6loi&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" 
+              src="https://i.postimg.cc/65Crc6PJ/NU0xjazlhp-Bd0-Deu-NK.webp" 
               width="200" 
               alt="Switch to portrait please" 
               className="mb-4" 
