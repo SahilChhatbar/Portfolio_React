@@ -65,7 +65,7 @@ const About = () => {
         <li className="flex gap-3 items-start">
           <div className="flex-grow">
           <p className="text-sm md:text-lg leading-tight hyphens-auto font-semibold">
-          I'm an Aspiring Full Stack Developer and WordPress Developer, specializing in building and managing websites and web applications. Check out my work in the Projects section.</p>
+          I'm an aspiring Web Developer and WordPress Developer, specializing in building and managing websites. Check out my work in the Projects section.</p>
           </div>
         </li>
         <li className="flex gap-3 items-start">
