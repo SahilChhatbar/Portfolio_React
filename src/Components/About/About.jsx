@@ -80,7 +80,7 @@ const About = () => {
             I am open to job opportunities where I can contribute, learn, and grow. If you have a relevant opportunity or would like to view my resume, feel free to contact me.</p>
           </div>
         </li>
-       <div className="flex flex gap-1 md:gap-6 justify-center"><button className="button-gradient text-#94a3b8 py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#673ab7] text-center">
+       <div className="flex flex gap-0 md:gap-6 justify-center"><button className="button-gradient text-#94a3b8 py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#673ab7] text-center">
           <a href="#Footer">Contact Me</a>
           </button>
           <button className="button-gradient text-#94a3b8 py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#673ab7] text-center">
