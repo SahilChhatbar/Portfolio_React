@@ -10,7 +10,7 @@
   margin: auto;
   width :34px;
   height: 55px;
-  opacity: 0.55;
+  opacity: 0.60;
 }
 .dark .mousey {
   width:1.5px;
@@ -21,7 +21,7 @@
   opacity: 0.75;
   box-sizing: content-box;
   margin-top: 95px;
-  opacity: 0.55;
+  opacity: 0.60;
 }
 .dark .scroller {
   width: 2px;
@@ -32,7 +32,7 @@
   animation-duration: 2.2s;
   animation-timing-function: cubic-bezier(.15,.41,.69,.94);
   animation-iteration-count: infinite;
-  opacity: 0.55;
+  opacity: 0.6;
 }
 
 .light .mousey {
@@ -41,7 +41,7 @@
   height: 25px;
   border: 2px solid #023020;
   border-radius: 25px;
-  opacity: 0.55;
+  opacity: 0.6;
   box-sizing: content-box;
   margin-top: 95px;
 }
@@ -54,7 +54,7 @@
   animation-duration: 2.2s;
   animation-timing-function: cubic-bezier(.15,.41,.69,.94);
   animation-iteration-count: infinite;
-  opacity: 0.55;
+  opacity: 0.6;
 }
 
 @keyframes scroll {
