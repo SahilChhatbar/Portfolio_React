@@ -1,6 +1,8 @@
 /* Home.css */
 
-
+#About{
+  position: relative;
+}
 .scroll-downs {
   position: absolute;
   top: 0;
