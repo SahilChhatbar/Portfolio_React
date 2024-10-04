@@ -49,7 +49,7 @@ function App() {
         <div id="landscape-warning" className="fixed inset-0 bg-slate-600 bg-opacity-95 flex items-center justify-center z-50">
           <div className="text-center text-white flex flex-col items-center">
             <img 
-              src='src\assets\rotatephone.gif' 
+              src="https://iili.io/dbg4IR4.gif" 
               width="200" 
               alt="Switch to portrait please" 
               className="mb-4" 
