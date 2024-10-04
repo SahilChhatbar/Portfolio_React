@@ -22,14 +22,14 @@ function App() {
       }
     }
 
-    // Initial check
+    
     checkOrientation();
 
-    // Check on resize and orientation change
+
     window.addEventListener('resize', checkOrientation);
     window.addEventListener('orientationchange', checkOrientation);
 
-    // Cleanup event listeners
+
     return () => {
       window.removeEventListener('resize', checkOrientation);
       window.removeEventListener('orientationchange', checkOrientation);
@@ -49,7 +49,7 @@ function App() {
         <div id="landscape-warning" className="fixed inset-0 bg-slate-600 bg-opacity-95 flex items-center justify-center z-50">
           <div className="text-center text-white flex flex-col items-center">
             <img 
-              src="https://i.postimg.cc/65Crc6PJ/NU0xjazlhp-Bd0-Deu-NK.webp" 
+              src='src\assets\rotatephone.gif' 
               width="200" 
               alt="Switch to portrait please" 
               className="mb-4" 
