@@ -1,6 +1,7 @@
 import React from 'react'
 import m1 from "../../assets/ppp.gif"
 
+
 const Experience = () => {
   return (
     <div id="Experience" className="p-10 md:p-24 md:-mt-10">
@@ -39,12 +40,22 @@ const Experience = () => {
     <div className="text-md hyphens-auto w-full hyphens-auto">
     <h2 className="font-bold">Projects I worked on:</h2>
     <ul className="list-none ml-1">
-      <li className="flex items-center">
-        <span className="mr-2">→</span> <a href='https://bigsocialmedia.in/' target='_blank'><u>bigsocialmedia.in</u></a>
-      </li>
-      <li className="flex items-center">
-        <span className="mr-2">→</span> <a href='https://selfpublishingindia.co.in/' target='_blank'><u>selfpublishingindia.in</u></a>
-      </li>
+    <li className="flex items-center relative">
+  <span className="mr-2">→</span> 
+  <a href='https://bigsocialmedia.in/' target='_blank' className="hover-text">bigsocialmedia.in🔗</a>
+  <div className="hover-image absolute hidden">
+    <img src="https://i.postimg.cc/9MqvGVzJ/Screenshot-655.png" alt="Description of image" />
+  </div>
+</li>
+
+<li className="flex items-center relative">
+  <span className="mr-2">→</span> 
+  <a href='https://selfpublishingindia.co.in/' target='_blank' className="hover-text">selfpublishingindia.in🔗</a>
+  <div className="hover-image absolute hidden">
+    <img src="https://i.postimg.cc/ZnJzZ2KH/Screenshot-656.png" alt="Description of image" />
+  </div>
+</li>
+
     </ul>
   </div>
       </div>

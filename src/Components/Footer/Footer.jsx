@@ -39,7 +39,7 @@ const Footer = () => {
           className="button-gradient hidden md:block absolute bottom-4 right-4 p-3 bg-white text-black rounded-3xl shadow-lg hover:opacity-85 duration-300 hover:scale-105 md:text-xl"
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
         >
-        <a href='#Nav'>🢁</a>  
+        <a href='#'>🢁</a>  
         </button>
       </div>
   )

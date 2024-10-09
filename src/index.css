@@ -18,6 +18,23 @@
 * {
   scroll-behavior: smooth;
 }
+.hover-text:hover + .hover-image {
+  display: block;
+}
+
+.hover-image img {
+  width: 200px; /* Adjust as needed */
+  height: auto;
+  border: 1px solid #ddd;
+  background-color: white;
+  padding: 5px;
+}
+
+.hover-image {
+  top: 100%; /* Position the image below the text */
+  left: 50%;
+}
+
 /* Light theme */
 .light body {
   background-color: #90e4c1; 
