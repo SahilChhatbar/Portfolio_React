@@ -23,7 +23,7 @@
 }
 
 .hover-image img {
-  width: 200px; /* Adjust as needed */
+  width: 500px; /* Adjust as needed */
   height: auto;
   border: 1px solid #ddd;
   background-color: white;
@@ -32,7 +32,7 @@
 
 .hover-image {
   top: 100%; /* Position the image below the text */
-  left: 50%;
+  left: 10%;
 }
 
 /* Light theme */
