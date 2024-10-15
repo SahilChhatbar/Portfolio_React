@@ -44,7 +44,7 @@ const Experience = () => {
   <span className="mr-2">→</span> 
   <a href='https://bigsocialmedia.in/' target='_blank' className="hover-text">bigsocialmedia.in🔗</a>
   <div className="hover-image absolute hidden">
-    <img src="https://i.postimg.cc/9MqvGVzJ/Screenshot-655.png" alt="Description of image" />
+    <img src="https://i.postimg.cc/rmjQkF8f/Screenshot-661.png" alt="Description of image" />
   </div>
 </li>
 
@@ -52,7 +52,7 @@ const Experience = () => {
   <span className="mr-2">→</span> 
   <a href='https://selfpublishingindia.co.in/' target='_blank' className="hover-text">selfpublishingindia.in🔗</a>
   <div className="hover-image absolute hidden">
-    <img src="https://i.postimg.cc/ZnJzZ2KH/Screenshot-656.png" alt="Description of image" />
+    <img src="https://i.postimg.cc/NjR8tfDR/Screenshot-663.png" alt="Description of image" />
   </div>
 </li>
 
