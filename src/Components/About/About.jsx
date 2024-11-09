@@ -1,6 +1,6 @@
 import React from "react";
 import { FaCss3, FaFigma, FaHtml5, FaJs, FaReact } from 'react-icons/fa'
-import {SiWordpress} from "react-icons/si"
+import {SiFirebase, SiWordpress} from "react-icons/si"
 import { SiMongodb } from 'react-icons/si'
 import { SiNodedotjs } from 'react-icons/si'
 import { SiTailwindcss } from "react-icons/si";
@@ -36,6 +36,9 @@ const About = () => {
     </span>
     <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
       <SiMongodb color="47a248" size={50} />
+    </span>
+    <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
+      <SiFirebase color="#ff0000" size={50} />
     </span>
     <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
       <SiNodedotjs color="47a248" size={50} />
