@@ -1,7 +1,6 @@
 import React from 'react'
 import m1 from "../../assets/ppp.gif"
 
-
 const Experience = () => {
   return (
     <div id="Experience" className="p-10 md:p-24 md:-mt-10">
