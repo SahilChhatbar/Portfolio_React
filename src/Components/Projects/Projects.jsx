@@ -10,7 +10,7 @@ const Projects = () => {
     <ProjectCard 
         title="SamacharSetu" 
         main="A real-time news website with a translation feature, completely responsive. It utilizes the Google translate API. Developed using React and Bootstrap." 
-        image="https://i.postimg.cc/j5k381Sd/Screenshot-674-1-1.png" 
+        image="https://i.postimg.cc/dtGVMCjz/Screenshot-674-1-1.png" 
         demoLink="https://samacharsetu.vercel.app/"
         githubLink="https://github.com/SahilChhatbar/SamacharSetu"
       />
