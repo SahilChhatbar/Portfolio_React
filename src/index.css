@@ -106,27 +106,10 @@
     box-shadow: 0 0 15px rgba(0, 188, 212, 0.4), 0 0 20px rgba(60, 179, 113, 0.4); /* Increased final glow */
   }
 }
-.dark button{
+.dark button,p,h1,h2,h3,span,ul{
   color: #94a3b8;
 }
-.dark p{
-  color: #94a3b8;
-}
-.dark h1{
-  color: #94a3b8;
-}
-.dark h2{
-  color: #94a3b8;
-}
-.dark h3{
-  color: #94a3b8;
-}
-.dark span{
-  color: #94a3b8;
-}
-.dark ul{
-  color: #94a3b8;
-}
+
 .animated-text {
   display: inline-block; /* Ensures the text is inline and block for animations */
   font-size: 3rem; /* Adjust size as needed */
