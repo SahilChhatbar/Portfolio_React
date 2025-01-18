@@ -1,5 +1,6 @@
 import React from 'react'
 import m1 from "../../assets/ppp.gif"
+import m2 from "../../assets/eli.png"
 
 const Experience = () => {
   return (
@@ -10,7 +11,7 @@ const Experience = () => {
         <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-4 w-full">
           <img className="w-16 md:w-20" src={m1} alt="Profile" />
           <div className="text-white w-full text-leftr md:text-left ">
-            <h2 className="leading-tight font-bold hyphens-auto">BSM Pvt. Ltd., WordPress Developer Intern</h2>
+            <h2 className="leading-tight font-bold hyphens-auto"><b className='text-lg'>BSM Pvt. Ltd.</b>, <i>WordPress Developer Intern</i></h2>
             <p className="text-lg leading-tight font-thin">Jun 2024 - Aug 2024</p>
             <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-10">
   <div className="text-sm hyphens-auto w-full">
@@ -34,7 +35,7 @@ const Experience = () => {
       </div>
         </div>
       </div>
-      <div className="hidden md:flex flex-wrap md:w-2/5 w-full gap-4 p-6 text-white items-center justify-center bg-black shadow-lg shadow-slate-900 bg-opacity-20 rounded-2xl md:mt-8 hyphens-auto font-semibold">
+      <div className="hidden md:flex flex-wrap md:w-2/5 w-full gap-4 p-6 text-white items-center justify-center bg-black shadow-lg shadow-slate-900 bg-opacity-20 rounded-2xl md:mt-6 hyphens-auto font-semibold">
     <p>During my internship at <b>Big Social Media Pvt. Ltd.</b>, I developed skills in professional communication, teamwork, time management, problem-solving, adaptability, networking, attention to detail, and conflict resolution.</p>
     <div className="text-md hyphens-auto w-full hyphens-auto">
     <h2 className="font-bold">Projects I worked on:</h2>
@@ -57,6 +58,16 @@ const Experience = () => {
 
     </ul>
   </div>
+      </div>
+      <div className="flex flex-col w-full md:w-3/6 gap-4 bg-slate-950 bg-opacity-20 rounded-xl p-4 items-center shadow-lg shadow-slate-900 md:mt-20">
+        <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-4 w-full">
+          <img className="w-16 md:w-20" src={m2} alt="Profile" />
+          <div className="text-white w-full text-leftr md:text-left ">
+            <h2 className="leading-tight font-bold hyphens-auto"><b className='text-lg'>Elixer Techne</b>, <i>Software Developer Intern</i></h2>
+            <p className="text-lg leading-tight font-thin">Jan 2025 - Present</p>
+  
+      </div>
+        </div>
       </div>
     </div>
   </div>
