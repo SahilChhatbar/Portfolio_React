@@ -61,9 +61,9 @@ const Experience = () => {
       </div>
       <div className="flex flex-col w-full md:w-3/6 gap-4 bg-slate-950 bg-opacity-20 rounded-xl p-4 items-center shadow-lg shadow-slate-900 md:mt-20">
         <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-4 w-full">
-          <img className="w-16 md:w-20" src={m2} alt="Profile" />
+          <img className="w-16 md:w-24" src={m2} alt="Profile" />
           <div className="text-white w-full text-leftr md:text-left ">
-            <h2 className="leading-tight font-bold hyphens-auto"><b className='text-lg'>Elixer Techne</b>, <i>Software Developer Intern</i></h2>
+            <h2 className="leading-tight font-bold hyphens-auto"><b className='text-lg'>Elixir Techne</b>, <i>Software Developer Intern</i></h2>
             <p className="text-lg leading-tight font-thin">Jan 2025 - Present</p>
   
       </div>
