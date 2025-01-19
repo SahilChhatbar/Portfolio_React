@@ -1,6 +1,6 @@
 import React from 'react'
 import m1 from "../../assets/ppp.gif"
-import m2 from "../../assets/eli.gif"
+import m2 from "../../assets/eli.png"
 
 const Experience = () => {
   return (
