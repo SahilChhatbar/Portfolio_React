@@ -39,7 +39,7 @@ function App() {
   return (
     <div className="h-auto w-full overflow-hidden">
       <ThemeToggle />
-      <Navbar />
+      <Navbar className="fixed top-0"/>
       <Home />
       <About />
       <Experience />
