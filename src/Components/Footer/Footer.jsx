@@ -28,11 +28,6 @@ const Footer = () => {
               <FaGithub className="text-base sm:text-lg md:text-2xl" />
             </a>
           </li>
-          <li>
-            <a href="https://www.instagram.com/_sahil0703?igsh=OXQ4eHBxd3F1MGRx" target='_blank'>
-              <FaInstagram className="text-base sm:text-lg md:text-2xl" />
-            </a>
-          </li>
         </ul>
         </div>
         <button
