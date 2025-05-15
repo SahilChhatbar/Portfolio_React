@@ -24,9 +24,9 @@ const Projects = () => {
       <ProjectCard 
         title="CineScope" 
         main="A movie information website that contains movie lists, such as popular, upcoming, and top rated. It utilized real-time data using API calls. Also contains movie details page complete with a unique chatbot." 
-        image="https://i.postimg.cc/jSYyYNHn/cine.jpg" 
-        demoLink="https://cine-scope-phi.vercel.app/"
-        githubLink="https://github.com/SahilChhatbar/CineScope-ReactJs"
+        image="https://i.postimg.cc/8CtJMwSs/Screenshot-859.png" 
+        demoLink="https://cinescope-gamma.vercel.app/"
+        githubLink="https://github.com/SahilChhatbar/cine-scope"
       />
     </div>
   </div>
