@@ -3,7 +3,7 @@ import ProjectCard from "./ProjectCard";
 
 const Projects = () => {
   return (
-    <div id="Projects" className="p-10 md:p-24 md:pt-0 text-white md:-mt-20 -mt-8">
+    <div id="Projects" className="p-10 md:p-24 text-white md:-mt-20 -mt-8">
     <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
     <div className="py-12 px-8 flex flex-wrap gap-8 justify-center mt-0 md:mt-10">
        <ProjectCard 
