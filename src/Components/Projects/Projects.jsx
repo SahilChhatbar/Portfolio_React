@@ -6,7 +6,14 @@ const Projects = () => {
     <div id="Projects" className="p-10 md:p-24 text-white md:-mt-20 -mt-8">
     <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
     <div className="py-12 px-8 flex flex-wrap gap-8 justify-center mt-0 md:mt-10">
-       <ProjectCard 
+      <ProjectCard 
+        title="RadioVerse" 
+        main="A Mern Stack project that allows users to listen to radio stations from around the world. It features a sleek and modern design, with a user-friendly interface that makes it easy to find and listen to your favorite stations. It also includes unique features such as audio visualizations, add to favorites and weather updates." 
+        image="https://i.postimg.cc/x1Cx68GD/Screenshot-(99).png" 
+        demoLink="https://radioverse.vercel.app/"
+        githubLink="https://github.com/SahilChhatbar/radio-head"
+      />
+         <ProjectCard 
         title="CineScope" 
         main="A movie information website that contains movie lists, such as popular, upcoming, and top rated. It utilized real-time data using API calls. Also contains movie details page complete with a unique chatbot." 
         image="https://i.postimg.cc/8CtJMwSs/Screenshot-859.png" 
@@ -20,14 +27,6 @@ const Projects = () => {
         demoLink="https://samacharsetu.vercel.app/"
         githubLink="https://github.com/SahilChhatbar/SamacharSetu"
       />
-      <ProjectCard 
-        title="NearBees" 
-        main="A Flower recognition system made using CNN model, YOLO and Flask. Other technologies include React Js and Bootstrap." 
-        image="https://i.postimg.cc/XNTsXrK4/near.jpg" 
-        demoLink="https://imgur.com/a/KQZGUDr"
-        githubLink="https://github.com/SahilChhatbar/NearBees--Flower-Recognition-System-"
-      />
-     
     </div>
   </div>
   )

@@ -1,5 +1,3 @@
-import React from 'react';
-
 
 const ProjectCard = ({ title, main, image, demoLink, githubLink }) => {
   return (
@@ -13,7 +11,7 @@ const ProjectCard = ({ title, main, image, demoLink, githubLink }) => {
         <div className="mt-2 flex flex-wrap gap-1 md:gap-6 justify-center">
          
             <button className="button-gradient mt-5 md:mt-10  text-#94a3b8 py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#673ab7]">
-            <a href={demoLink} target="_blank" rel="noopener noreferrer">  Demo</a>
+            <a href={demoLink} target="_blank" rel="noopener noreferrer">Link to Project</a>
             </button>
             <button className="button-gradient mt-5 md:mt-10 text-#94a3b8 py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#673ab7]">
             <a href={githubLink} target="_blank" rel="noopener noreferrer">GitHub </a>
