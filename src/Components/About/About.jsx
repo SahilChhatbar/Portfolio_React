@@ -1,11 +1,8 @@
 import { FaJs, FaReact } from 'react-icons/fa'
- import { SiWordpress} from "react-icons/si"
- import { SiMongodb } from 'react-icons/si'
- import { SiNodedotjs } from 'react-icons/si'
  import { SiTailwindcss } from "react-icons/si";
  import { SiBootstrap } from "react-icons/si";
  import { SiTypescript } from "react-icons/si";
- import {SiExpress} from "react-icons/si"
+ import { SiVitest } from "react-icons/si";
  import {SiPlaywright} from "react-icons/si"
  import { SiNextdotjs } from "react-icons/si";
  
@@ -32,18 +29,6 @@ import { FaJs, FaReact } from 'react-icons/fa'
        <FaJs color="#f7df16" size={50} />
      </span>
      <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
-       <SiMongodb color="47a248" size={50} />
-     </span>
-     <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
-       <SiNodedotjs color="47a248" size={50} />
-     </span>
-     <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
-       <SiExpress color="#3c873a" size={50}/>
-     </span>
-     <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
-       <SiWordpress color="#ffff" size={50} />
-     </span>
-     <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
        <SiTailwindcss color="#00bfff" size={50} />
      </span>
      <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
@@ -54,6 +39,9 @@ import { FaJs, FaReact } from 'react-icons/fa'
      </span>
      <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
        <SiPlaywright color="#45ba4b" size={50}/>
+     </span>
+      <span className="p-2 bg-zinc-950 flex items-center rounded-2xl">
+       <SiVitest color="#45ba4b" size={50}/>
      </span>
    </div>
  </div>
@@ -68,7 +56,7 @@ import { FaJs, FaReact } from 'react-icons/fa'
          <li className="flex gap-3 items-start">
            <div className="flex-grow">
            <p className="text-sm md:text-lg leading-tight hyphens-auto font-semibold">
-           I'm an aspiring Web Developer and WordPress Developer, specializing in building and managing websites. Check out my work in the Projects section.</p>
+           I'm an aspiring Web Developer, specializing in building and managing websites. Check out my work in the Projects section.</p>
            </div>
          </li>
          <li className="flex gap-3 items-start">
@@ -87,7 +75,7 @@ import { FaJs, FaReact } from 'react-icons/fa'
            <a href="#Footer">Contact Me</a>
            </button>
            <button className="button-gradient text-#94a3b8 py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#673ab7] text-center">
-           <a href="https://drive.google.com/file/d/1gCrwysu3xjl3k56LRmh3YAqP8rvM9ZNT/view" target="_blank">My Résumé</a>
+           <a href="https://drive.google.com/file/d/1zBjTqJ7hSQyAb-wAAjYftjYByIl6vNH8/view?usp=sharing" target="_blank">My Résumé</a>
            </button></div>
        </ul>
      </div>
