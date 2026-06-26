@@ -75,7 +75,7 @@ import { FaJs, FaReact } from 'react-icons/fa'
            <a href="#Footer">Contact Me</a>
            </button>
            <button className="button-gradient text-#94a3b8 py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#673ab7] text-center">
-           <a href="https://drive.google.com/file/d/1zBjTqJ7hSQyAb-wAAjYftjYByIl6vNH8/view?usp=sharing" target="_blank">My Résumé</a>
+           <a href="https://drive.google.com/file/d/1z52iHCECz8LyeXDIWOdf8uZ3BynfUnh2/view?usp=drive_link" target="_blank">My Résumé</a>
            </button></div>
        </ul>
      </div>
